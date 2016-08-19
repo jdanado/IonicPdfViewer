@@ -243,3 +243,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Ionic directories to ignore
+platforms/
+node_modules/
+hooks/
+merges/
+bin
